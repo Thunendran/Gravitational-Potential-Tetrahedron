@@ -1,0 +1,5 @@
+,Python,MATLAB,Julia_Float64,Julia_BigFloat
+Python,01.49×10⁻⁴ s/pt,02.68×10⁻¹⁶,03.83×10⁻¹⁷,09.97×10⁻¹⁷
+MATLAB,–,03.39×10⁻⁵ s/pt,02.66×10⁻¹⁶,02.66×10⁻¹⁶
+Julia_Float64,–,–,01.08×10⁻⁶ s/pt,09.32×10⁻¹⁷
+Julia_BigFloat,–,–,–,02.23×10⁻⁴ s/pt

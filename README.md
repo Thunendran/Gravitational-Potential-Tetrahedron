@@ -19,7 +19,7 @@ These codes accompany the peer-reviewed publication:
 **Periyandy, T. & Bevis, M. (2025).  
 _The gravitational potential inside, on, and outside of a homogeneous tetrahedron._  
 Journal of Geodesy.**  
-DOI: _[]_
+DOI: https://doi.org/10.1007/s00190-025-02024-7
 
 ---
 
